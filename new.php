@@ -1,5 +1,5 @@
 <?php
 
-echo "we шшшшшhave made changes";
+echo "we made changes";
 
 ?>
